@@ -1,0 +1,41 @@
+.todo__container ol {
+  margin: 20px;
+  font-size: 24px;
+  color: black;
+}
+
+#grad1 {
+  background-image: linear-gradient(rgb(187, 187, 187), rgb(252, 130, 130));
+}
+
+.todo__container {
+  text-align: center;
+  margin: 40px;
+  border: 2px solid maroon;
+  border-radius: 25px;
+  background-color: aliceblue;
+  /* background-color: linear-gradient(180deg, red, yellow); */
+}
+
+.textInput {
+  font-family: "Roboto", sans-serif;
+  border-radius: 10px;
+  text-align: center;
+  width: 25%;
+  border: 3px solid black;
+}
+
+h1 {
+  font-size: 50px;
+  color: maroon;
+}
+
+.btn__grp > button {
+  margin: 20px;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  font-weight: bold;
+  color: brown;
+  font-size: 20px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
